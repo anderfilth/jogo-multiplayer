@@ -1,0 +1,8 @@
+#screen {
+    border: 1px #ccc solid;
+    width: 400px;
+    height: 400px;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+    image-rendering: -moz-crisp-edges;
+}
